@@ -25,4 +25,5 @@ Incorporates lambda functions for event handling and custom timer-based logic fo
 Key features like looping and dynamic track feedback were inspired by professional DJ tools like VirtualDJ.
 
 📌 Outcome
+
 The final app demonstrates real-time audio control, a refined UI, and extensible code architecture—making it suitable for both educational and live DJ performance use.
